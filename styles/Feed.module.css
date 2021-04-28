@@ -1,0 +1,28 @@
+.main {
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+    flex-direction: column;
+    margin-top:120px;
+    
+  }
+  .post {
+    
+    width: 450px;
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+    border-bottom: 1px solid black;
+  }
+  .post img {
+    width: 100%;
+  }
+  .post h1 {
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    color:#6db996;
+  }
+  .source{
+      color:#6bc299;
+      text-align: right;
+  }

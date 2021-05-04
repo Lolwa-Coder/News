@@ -10,7 +10,7 @@ export default function Home() {
           Check Feed
         </h1>
         <h4>one step away from media literacy
-          <br />(star and follow on github if u like it)</h4>
+          <br /></h4>
       </div>
     </div>
   )

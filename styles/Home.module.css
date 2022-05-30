@@ -9,11 +9,13 @@
 }
 
 
-.main{
+.main{ 
+  
   padding: 25px;
   position: absolute;
   margin-top: 50vh;
   margin-left: 50vw;
+  
   transform:translate(-50%,-50%);
   text-align: center;
   

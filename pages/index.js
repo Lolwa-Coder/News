@@ -6,9 +6,10 @@ export default function Home() {
   return (
     <div className="page-container">
       <Toolbar />
+      
       <div className={styles.main}>
         <h1>
-          Check Feed
+          KNEWS<br></br>Check feed
         </h1>
         
         <h4>one step away from media literacy

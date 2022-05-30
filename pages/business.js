@@ -8,8 +8,8 @@ export const Feed = ({articles}) => {
  
   return (
     <div className="page-container">
-    <Toolbar />
-    <ToolbarNews />
+    
+    
 
     <div className={styles.main}>
       {articles.map((article, index) => (

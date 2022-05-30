@@ -4,7 +4,7 @@ export const about_maker = ({me})=>{
     console.log(me.me.name);
     return(
         <div className="page-container">
-            <Toolbar />
+           
            <div className={styles.main}>
                <h1 className={styles.h}>
                    {me.me.name}

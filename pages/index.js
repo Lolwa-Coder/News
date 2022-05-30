@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import {Toolbar} from '../components/toolbar';
+import { Canvas } from "@react-three/fiber";
 export default function Home() {
   return (
     <div className="page-container">
@@ -9,6 +10,7 @@ export default function Home() {
         <h1>
           Check Feed
         </h1>
+        
         <h4>one step away from media literacy
           <br />(star and follow on github if u like it)</h4>
       </div>

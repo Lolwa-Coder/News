@@ -4,7 +4,7 @@
     display:flex;
     justify-content:center;
     position: fixed;
-    background-color: white;
+    background-color: rgba(80, 161, 69, 0.536);
     height: 60px;
 }
 .main div{
@@ -15,6 +15,6 @@
 
 }
 .main div:hover{
-    color: #6db996;
+    color: #8412e8;
     
 }
